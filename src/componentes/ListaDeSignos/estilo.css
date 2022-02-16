@@ -1,0 +1,12 @@
+html, body{
+  background-color: #2d2d2d;
+}
+.lista {
+  display: flex;
+  justify-content: center;
+  max-width: 1280px;
+  flex-flow: row wrap;
+  flex-basis: auto;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
